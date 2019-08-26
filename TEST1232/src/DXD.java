@@ -1,6 +1,6 @@
 
 public class DXD {
 	String kk = "dddd";
-	int k = 56;
+	int k = 5688;
 
 }
