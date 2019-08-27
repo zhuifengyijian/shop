@@ -1,14 +1,6 @@
 
 public class DXD {
- 
-	String kk = "dddd";
- 
- 
- 
- 
-
- 
-	int k = 9999999;
    
- 
+	String kk = "sssdsd";	
+	int KKK = 8;
 }
